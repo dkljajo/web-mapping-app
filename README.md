@@ -7,7 +7,7 @@ In this project I created an interactive HTML map with two different layers:
 3. On the top-right corner of the map is a layer control which allows to chose which layer has to be displayed.
 
 # How to run the app:
-1. Clone git repo https://github.com/vbb08/web-mapping-app
+1. Clone git repo https://github.com/dkljajo/web-mapping-app
 2. Python 3.11 or newer version required!
 3. Run Map.py file
 4. Open Map1.html generated file, in your browser
