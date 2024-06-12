@@ -12,4 +12,4 @@ In this project I created an interactive HTML map with two different layers:
 3. Run Map.py file
 4. Open Map1.html generated file, in your browser
 
-![web-app-folium](web-app-folium/img.png)
+![web-app-folium](/web-app-folium/img.png)
