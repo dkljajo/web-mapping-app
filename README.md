@@ -12,15 +12,7 @@ The output is a standalone HTML file that can be opened in any browser.
 
 📸 Preview
 
-(Add screenshots here)
-
-images/base_map.png – Base map without layers
-
-images/population_layer.png – World population visualization
-
-images/volcano_layer.png – U.S. volcano markers
-
-images/layer_control.png – Layer control menu
+[screenshoot]./1.png
 
 🧠 Project Overview
 
