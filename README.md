@@ -12,7 +12,7 @@ The output is a standalone HTML file that can be opened in any browser.
 
 📸 Preview
 
-![web-app](./web-folium-app.png)
+![web-app](./web-folium-app.jpg)
 
 🧠 Project Overview
 
